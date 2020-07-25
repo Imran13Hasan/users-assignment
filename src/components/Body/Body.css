@@ -1,0 +1,9 @@
+.body{
+    display: flex;
+}
+.user-container {
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 10px;
+    background-color: floralwhite;
+}
